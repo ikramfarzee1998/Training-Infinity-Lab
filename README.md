@@ -1,6 +1,6 @@
 Training at Infinity LAB:
 
-1) Arduino
-   ESP32 with Temperature sensor(DHT22) and connected with MQTT
-   Sub and pub current temperature and humidity
-   Run python script to save current data as CSV
+Arduino
+1. ESP32 with Temperature sensor(DHT22) and connected with MQTT
+2. Sub and pub current temperature and humidity
+3. Run python script to save current data as CSV
