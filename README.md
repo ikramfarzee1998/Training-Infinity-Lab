@@ -7,9 +7,9 @@ Day1-Arduino
 
 Day 2- Python for Data Cleaning + OpenCV
 
-    Numpy
-    Pandas
-    Plotting using matplotlib
-    Scikit-learn libraries include anomaly
-    Detection using an isolation forest model
+1. Numpy
+2. Pandas
+3. Plotting using matplotlib
+4. Scikit-learn libraries include anomaly
+5. Detection using an isolation forest model
 
