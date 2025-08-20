@@ -12,4 +12,10 @@ Day 2- Python for Data Cleaning + OpenCV
 3. Plotting using matplotlib
 4. Scikit-learn libraries include anomaly
 5. Detection using an isolation forest model
+6. Use OpenCv to capture and process image
+
+Day-3
+1. Generate and customize text with LLMs
+2. Build Chatbox via Google.generativeai(Gemini-API)
+3. Intergrate IoT data into chatbox responses
 
